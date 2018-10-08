@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from brokenaxes import brokenaxes
 from scipy.stats import norm
 
-os.chdir('Documents/projects/fitness_article_topic_modeling')
+os.chdir('your/project/directory')
 
 ############################
 # functions
